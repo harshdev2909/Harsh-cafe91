@@ -9,7 +9,7 @@ const Navbar = ({sideBar,setSidebar}) => {
         <motion.h1 
         initial={{opacity:0 ,y:-100}} animate={{opacity:1 , y:0}}
         transition={{type:"spring",stiffness:100,damping:10 , delay:0.2}}
-        className="text-2xl font-semibold uppercase"><span className="text-primary">Harsh-</span>Cafe</motion.h1>
+        className="text-2xl font-semibold uppercase"><span className="text-primary">Brew</span>91</motion.h1>
         {/* menu section} */}
          <motion.div
          initial={{opacity:0 ,y:-100}} animate={{opacity:1 , y:0}}
