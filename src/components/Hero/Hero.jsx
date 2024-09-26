@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import BgImage from '../../assets/bg-slate.png'
+import BgImage from '../../assets/bg-slate.png';
 import CoffeeMain from '../../assets/black.png'
 import Navbar from "../Navbar/Navbar";
 import {motion} from 'framer-motion'
